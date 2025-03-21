@@ -23,7 +23,7 @@ pip install apache-airflow pandas scikit-learn
 ```
 
 ## Dataset
-Download the dataset from [here](#) and save it as `screentime_analysis.csv` in the project directory.
+The dataset  `screentime_analysis.csv` is in the project directory.
 
 ## Data Preprocessing
 The preprocessing script performs the following steps:
